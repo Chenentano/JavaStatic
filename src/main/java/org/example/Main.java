@@ -18,5 +18,10 @@ public class Main {
 
         System.out.println(counter1.instanceCount);
         System.out.println(counter2.instanceCount);
+
+        System.out.println("__________");
+        System.out.println(Calculator.add(2,4));
+
+
     }
 }
